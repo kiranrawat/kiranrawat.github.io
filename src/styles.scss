@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    margin: 0px;
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    max-width: 1152px;
+    margin: auto;
+}
+
+.background {
+    background-color: #EAE5E5;
+}
+
+.is-flex {
+    display: flex;
+
+    @media only screen and (max-width: 768px) {
+        flex-direction: column;
+    }
+}
+
+.is-flex-dm {
+    display: flex;
+}
+
+.flex-space{
+    flex:1;
+}
+
+.flex-2 {
+    flex: 2;
+}
+
+.flex-3 {
+    flex: 3;
+}
+
+.padding {
+    padding: 16px;
+}
+
+.flex-content-centre {
+    align-items: center;
+}
+
+
