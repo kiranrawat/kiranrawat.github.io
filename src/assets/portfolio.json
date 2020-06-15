@@ -106,6 +106,11 @@
     "achivements": [],
     "blogs": [
         {
+            "title": "SYSTEM DESIGN AND ARCHITECTURAL ANALYSIS OF NETFLIX [PART-1]",
+            "date": "Jun 15, 2020",
+            "link": "https://medium.com/@rawat.kiran111/system-design-and-architectural-analysis-of-netflix-part-1-a3ac32d0990"
+        },
+        {
             "title": "Predicting Stable Portfolios Using Machine Learning",
             "date": "Apr 14, 2019",
             "link": "https://medium.com/sfu-cspmp/predicting-stable-portfolios-using-machine-learning-f2e27d6dbbec"
