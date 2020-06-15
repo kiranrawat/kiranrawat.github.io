@@ -1,12 +1,12 @@
 {
     "name": "Kiran Rawat",
-    "designation": "",
+    "designation": "Learning Continues...",
     "email": "rawat.kiran111@gmail.com",
     "phone": "",
     "location": "Toronto, ON, CA",
     "linkedin": "https://www.linkedin.com/in/k-rawat",
     "facebook": "https://www.facebook.com/kiti.rawat11",
-    "intro": "I am a hardworking and self-motivated person who doesn't easily give up on the challenges. My peers describe me as a confident person with excellent presentation skills. I have a knack for solving puzzles and understanding complex problems. I like to have a positive outlook on my work and strive for perfection in my daily tasks. According to my peers, I get along well with people and never hesitate to ask questions.  Looking at my past, I can say that I have a lot to learn, and I am willing to give my 100% for my next project. <br><br> In today's innovative culture, data is a massive part in deciding the company's future. I want to utilize my skills as a Software Engineer and Data Scientist to create a progressive environment. In my 5+ years of experience, I have steered successful projects in both small and large teams.",
+    "intro": "I am a hardworking and self-motivated person who doesn't easily give up on the challenges. My peers describe me as a confident person with excellent presentation skills. I have a knack for solving puzzles and understanding complex problems. I like to have a positive outlook on my work and strive for perfection in my daily tasks. According to my peers, I get along well with people and never hesitate to ask questions.  Looking at my past, I can say that I have a lot to learn, and I am willing to give my 100% for my next project. <br><br> In today's innovative culture, data is a massive part in deciding the company's future. In my 5+ years of experience, I have steered successful projects in both small and large teams. I want to utilize my skills as a Software Engineer and Data Scientist to create a progressive environment.",
     "copyright": "© 2020 by Kiran Rawat.",
     "salutation": "thank you for visiting",
     "resume": "Resume_Kiran.pdf",
@@ -84,17 +84,22 @@
         {
             "title": "Understanding Global Poverty Using Visualization, Simon Fraser University",
             "about": "Developed a visualization dashboard by utilizing visualization principles to understand the global poverty and various factors related to it.",
+            "image":"dashboard.png",
             "demo": "https://povertyviz.herokuapp.com/",
             "github url": "https://github.com/kiranrawat/extreme-poverty-visualization"
         },
         {
             "title": "Predicting Stable Portfolios using Machine Learning and Deep Learning",
             "about": "Analyzed effect of sentiments of SEC filings on stock prices of S&P500 companies and predicted a stable portfolio based on sentiment scores and OHLC data using neural networks.",
+            "image":"data-pipe.png",
+            "demo": "assets/poster.pdf",
             "github url": "https://github.com/kiranrawat/equity-portfolio-prediction"
         },
         {
             "title": "NYC Taxi Analysis, Simon Fraser University",
             "about": "Performed ETL using PySpark and analyzed the dataset to provide the insights on how the taxi vendors in NYC can improve their business. Visualized the results using Kibana framework.",
+            "image":"kibana.png",
+            "demo": "assets/kibana-dashboard.png",
             "github url": "https://github.com/kiranrawat/Insights-to-the-existing-taxi-business-in-NYC."
         }
     ],

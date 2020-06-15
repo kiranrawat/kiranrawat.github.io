@@ -6,7 +6,7 @@
                 <div class="projects-container">
                     <div class="heading"><i class="fas fa-tasks"></i> Projects</div>
                     <div>
-                        <div *ngFor="let project of data['projects']">
+                        <div class="proj-container" *ngFor="let project of data['projects']">
                             <div class="is-flex">
                                 <div class="flex-space">
                                     <img class="project-img" src="assets/{{project['image']}}"
@@ -17,8 +17,8 @@
                                         {{ project['title'] }}
                                     </div>
                                     <div>
-                                        <a *ngIf="project['demo']" href="{{ project['demo'] }}">Demo</a>
-                                        <a *ngIf="project['github url']" href="{{ project['github url'] }}">Github</a>
+                                        <a *ngIf="project['demo']" style="font-weight: bold; text-decoration: underline;" href="{{ project['demo'] }}">Demo</a>&nbsp;&nbsp;
+                                        <a *ngIf="project['github url']" href="{{ project['github url'] }}"  class="fab fa-github proj-git"></a>
                                     </div>
                                     <div class="desc">
                                         {{ project['about'] }}

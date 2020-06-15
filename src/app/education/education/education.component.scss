@@ -18,9 +18,16 @@
                 width: auto;
             }
         }
+        .proj-container{
+            margin-top: 30px;
+        }
         .title {
             font-size: 18px;
             font-weight: 600;
+        }
+
+        .proj-git{
+            font-size: 30px;
         }
     }
 
@@ -87,6 +94,7 @@
             margin: 16px 0px 6px 0px;
         }
     }
+
 
     
 }
